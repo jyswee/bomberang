@@ -68,4 +68,7 @@ as used. First public release: **2026-10-06** (see
 [Releases](https://github.com/jyswee/bomberang/releases) — each release is
 timestamped by GitHub and lists the build published on that date).
 
-<p align="center"><sub>© 2026 Tyga.Cloud Ltd · BOMBERANG is a division of Tyga.Cloud Ltd</sub></p>
+<p align="center"><b>Copyright © 2026 Tyga.Cloud Ltd. All rights reserved.</b></p>
+<p align="center"><sub>BOMBERANG™ and the BOMBERANG logo are trade marks of Tyga.Cloud Ltd.<br>
+Protected automatically in the 182 contracting parties of the <a href="https://www.wipo.int/treaties/en/ip/berne/">Berne Convention</a> (WIPO) — no registration required.<br>
+See <a href="COPYRIGHT">COPYRIGHT</a> for the full notice. No licence is granted by publication.</sub></p>
